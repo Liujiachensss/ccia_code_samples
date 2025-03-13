@@ -1,5 +1,6 @@
 #include <thread>
 #include <utility>
+#include <stdexcept>
 
 class scoped_thread
 {
